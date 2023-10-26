@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-color: #15100A;
+    border-bottom: 5px solid;
+}
+h1, h2, h3, h5, h6 {
+    color: #a84b01
+}
+
+h4 {
+    color: #362E2D
+}
+
+h2 {
+    padding-top: 5px;
+    border-bottom: 1px solid;
+}
